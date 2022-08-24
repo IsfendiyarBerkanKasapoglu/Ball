@@ -1,0 +1,6 @@
+.DS_Store
+.cache/
+.config/
+.replit
+.upm/
+env/

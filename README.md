@@ -1,5 +1,7 @@
 # Ball Game
 
+<img width="404" alt="Screen Shot 2022-08-24 at 12 14 27" src="https://user-images.githubusercontent.com/84452695/186380513-ec30a640-dd19-4b92-8738-df4a05d7c146.png">
+
 Open terminal:
 
 Clone repository in your machine:
